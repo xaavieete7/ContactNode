@@ -1,9 +1,53 @@
-/**
-* Template Name: OnePage - v2.2.2
-* Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+/*--------------------------------------------------------------
+# Custom CSS
+--------------------------------------------------------------*/
+
+input.form-control:focus {
+  border: 1px solid #2487ce;
+  box-shadow: unset;
+}
+
+.swal2-html-container .swal2-label-container {
+  text-align: left;
+}
+
+.swal2-html-container .swal2-input-label {
+  margin-bottom: 5px;
+  font-size: 16px;
+  justify-content: start;
+}
+
+.swal2-html-container .swal2-input {
+  font-size: 1rem;
+  padding: .375rem .75rem;
+  margin-top: 0;
+  margin-bottom: 10px;
+  height: auto;
+}
+
+.swal2-html-container .swal2-input:focus {
+  border: 1px solid #2487ce;
+  box-shadow: unset;
+}
+
+
+.field-validation {
+  border: 1px solid red;
+}
+.field-validation:focus {
+  border: 1px solid red !important;
+}
+
+.message-field-validation {
+  color: red;
+  font-size: 12px;
+}
+
+.cus-hidden {
+  display: none;
+}
+
+
 
 /*--------------------------------------------------------------
 # General
