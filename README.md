@@ -1,1 +1,1 @@
-# Password Node
+# GrauPass | Password manager
