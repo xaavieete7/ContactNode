@@ -23,3 +23,5 @@ It is a test platform that pretends to be a password management application. Cre
 ### Here some screenshots:
 
 ![alt text](https://github.com/xaavieete7/GrauPass-Password-manager/blob/master/screenshot1.png?raw=true)
+
+You can add, delete, modify the passwords and they will be saved as you make changes.
