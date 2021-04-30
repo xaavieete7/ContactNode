@@ -22,4 +22,4 @@ It is a test platform that pretends to be a password management application. Cre
 
 ### Here some screenshots:
 
-![alt text](https://password.dinamicocean.com/img/Screenshot1.png)
+![alt text](https://github.com/xaavieete7/GrauPass-Password-manager/blob/master/screenshot1.png?raw=true)
