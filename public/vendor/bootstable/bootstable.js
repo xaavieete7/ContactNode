@@ -10,16 +10,16 @@ var params = null;  		//Parameters
 var colsEdi =null;
 var newColHtml = '<div class="btn-group pull-right">'+
 '<button id="bEdit" type="button" class="btn btn-sm btn-default" onclick="butRowEdit(this);">' +
-'<span class="icofont-ui-edit" > </span>'+
+'<span class="icofont-ui-edit fs-20" > </span>'+
 '</button>'+
 '<button id="bElim" type="button" class="btn btn-sm btn-default" onclick="butRowDelete(this);">' +
-'<span class="icofont-trash" > </span>'+
+'<span class="icofont-bin fs-20" > </span>'+
 '</button>'+
 '<button id="bAcep" type="button" class="btn btn-sm btn-default" style="display:none;" onclick="butRowAcep(this);">' + 
-'<span class="icofont-tick-mark" > </span>'+
+'<span class="icofont-check fs-30" > </span>'+
 '</button>'+
 '<button id="bCanc" type="button" class="btn btn-sm btn-default" style="display:none;" onclick="butRowCancel(this);">' + 
-'<span class="icofont-ui-remove" > </span>'+
+'<span class="icofont-close fs-25" > </span>'+
 '</button>'+
   '</div>';
   //Case NOT Bootstrap

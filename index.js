@@ -20,15 +20,15 @@ app.use(session({
     saveUninitialized: true
 }));
 
-mongoose.connect('mongodb://localhost/GrauPass', {
+mongoose.connect('mongodb://localhost:27017/GrauPass', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
     useCreateIndex: true
 });
 
-const User = require('../GrauPass/models/user');
-const Pass = require('../GrauPass/models/password');
+const User = require('./models/user');
+const Pass = require('./models/password');
 
 app.use(engine);
 app.set('views', `${__dirname}/views`);

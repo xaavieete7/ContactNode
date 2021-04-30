@@ -1,6 +1,17 @@
 /*--------------------------------------------------------------
 # Custom CSS
 --------------------------------------------------------------*/
+.fs-20 {
+  font-size: 20px;
+}
+
+.fs-25 {
+  font-size: 25px;
+}
+
+.fs-30 {
+  font-size: 30px;
+}
 
 input.form-control:focus {
   border: 1px solid #2487ce;
@@ -47,7 +58,15 @@ input.form-control:focus {
   display: none;
 }
 
+.button-add-password {
+  margin-bottom: 20px;
+  text-align: right;
+}
 
+.button-add-password a.btn-get-started {
+  padding: 10px 24px !important;
+  margin: 0 !important;
+}
 
 /*--------------------------------------------------------------
 # General
