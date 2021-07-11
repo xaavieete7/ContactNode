@@ -1,4 +1,4 @@
-# GrauPass | Password manager
+# Password manager
 
 
 It is a test platform that pretends to be a password management application. Created to practice and learn node.js 😎✌️
